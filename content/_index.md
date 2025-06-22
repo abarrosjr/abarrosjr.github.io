@@ -5,9 +5,9 @@ profileImage: "https://gravatar.com/avatar/372b761d537fad837eef071f681bbd69?size
 name: "Adriano Jr"
 description: "DevOps | FullStack Developer "
 socials:
-  - url: "https://github.com/devjunr"
+  - url: "https://github.com/abarrosjr"
     icon: "fab fa-github"
-  - url: "https://linkedin.com/in/devjunr"
+  - url: "https://linkedin.com/in/abarrosjr"
     icon: "fab fa-linkedin"
   - url: "https://youtube.com/@devjunr"
     icon: "fab fa-youtube"
@@ -19,7 +19,7 @@ socials:
 # Link cards
 links:
 
-  - href: "https://github.com/devjunr"
+  - href: "https://github.com/abarrosjr"
     icon: "fab fa-github"
     title: "GitHub"
     description: " "
