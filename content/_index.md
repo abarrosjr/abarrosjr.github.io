@@ -9,8 +9,8 @@ socials:
     icon: "fab fa-github"
   - url: "https://linkedin.com/in/abarrosjr"
     icon: "fab fa-linkedin"
-  - url: "https://youtube.com/@devjunr"
-    icon: "fab fa-youtube"
+  - url: "medium.com/@abarrosjr"
+    icon: "fab fa-medium"
   - url: "https://t.me/adrjun"
     icon: "fab fa-telegram"
 
