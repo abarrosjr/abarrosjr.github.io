@@ -9,9 +9,7 @@ socials:
     icon: "fab fa-github"
   - url: "https://linkedin.com/in/abarrosjr"
     icon: "fab fa-linkedin"
-  - url: "https://medium.com/@abarrosjr"
-    icon: "fab fa-medium"
-  - url: "https://t.me/adrjun"
+  - url: "https://t.me/abarrosjr"
     icon: "fab fa-telegram"
 
 # You can add as many links as you want!
@@ -23,14 +21,14 @@ links:
     icon: "fab fa-github"
     title: "GitHub"
     description: " "
-  - href: "https://t.me/adrjun"
+  - href: "https://t.me/abarrosjr"
     icon: "fab fa-telegram"
     title: "Telegram"
     description: " "
   - href: "mailto:adrianojunr@gmail.com"
     icon: "fas fa-envelope"
     title: "Email"
-    description: " "
+    description: ""
 
 #  REMOVE "How to Customize This Page" section by removing the line "{{ partial "Instructions.html" . }}" in index.html file under layouts/
 
