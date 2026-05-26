@@ -1,12 +1,12 @@
-baseURL = "devjunr.github.io"
-languageCode = "pt-br"
-title = "Adriano Jr"
+baseURL = "http://abarrosjr.github.io/"
+languageCode = "pt_BR"
+title = "abarrosjr"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
 
 [params]
-  description     = "Desenvolvedor de Softwares"
-  googleAnalytics = ""    # your GA ID, if any
+  description     = "Developer curious about computer engineering and open source"
+  googleAnalytics = "G-BF1DJ9JZF3"
 
 [outputs]
   home = ["HTML"]
