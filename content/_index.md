@@ -31,7 +31,7 @@ links:
     description: "Work?"
 
 messaging:
-  title: "Messaging Etiquette"
+  title: ""
   items:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
